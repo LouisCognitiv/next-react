@@ -9,7 +9,7 @@ export default function Index() {
     <>
       <MyNavbar></MyNavbar>
 
-      <UserContext.Consumer >
+      <UserContext.Consumer > 
         {([userContext,]) => {
           if (!userContext) {
             return <Landing />
