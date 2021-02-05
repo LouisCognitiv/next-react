@@ -1,0 +1,33 @@
+{
+  "name": "next-js-react-bootstrap",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.4.1",
+    "js-cookie": "^2.2.1",
+    "next": "^9.3.2",
+    "react": "^16.13.0",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-dom": "^16.13.0"
+  },
+  "description": "Small project demonstrating the using Next.js with React Bootstrap.",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxro/next-js-react-bootstrap.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/mxro/next-js-react-bootstrap/issues"
+  },
+  "homepage": "https://github.com/mxro/next-js-react-bootstrap#readme"
+}
