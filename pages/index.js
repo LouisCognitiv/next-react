@@ -7,7 +7,7 @@ export default function Index() {
 
   return (
     <>
-      <MyNavbar>11</MyNavbar>
+      <MyNavbar>12</MyNavbar>
 
       <UserContext.Consumer > 
         {([userContext,]) => {
