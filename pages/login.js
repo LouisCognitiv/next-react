@@ -11,7 +11,7 @@ function LoginPage() {
     <Container>
       <Row>
         <Col>
-          <h3>Login</h3>
+          <h3>Login 1</h3>
           <Login />
         </Col >
       </Row >
